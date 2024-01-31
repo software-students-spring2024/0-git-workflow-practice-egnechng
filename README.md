@@ -6,3 +6,5 @@ For more information on software engineering, you can refer to the [Introduction
 
 The article on Software Engineering from GeeksforGeeks offers a comprehensive introductory exploration of the field. It explains software engineering as a systematic, disciplined approach to software development, emphasizing the creation of high-quality, reliable and maintainable software. The article covers key principles like modularity, abstraction, encapsulation and testing, making it insightful for understanding how software is built and maintained. It also discusses the role of software both as a product and a vehicle for delivering a product. Moreover, the article explores  the advantages and challenges of software engineering. 
 
+## Comments 
+The point about reusability in software engineering was especially interesting to me, as the more projects I've done, the more I've noticed how this is essential for efficient development and feature changes. - Nathanuel Dixon
